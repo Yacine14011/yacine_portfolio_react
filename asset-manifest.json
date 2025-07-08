@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yacine_portfolio_react/static/css/main.de729329.css",
+    "main.js": "/yacine_portfolio_react/static/js/main.d6ed246b.js",
+    "index.html": "/yacine_portfolio_react/index.html",
+    "main.de729329.css.map": "/yacine_portfolio_react/static/css/main.de729329.css.map",
+    "main.d6ed246b.js.map": "/yacine_portfolio_react/static/js/main.d6ed246b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de729329.css",
+    "static/js/main.d6ed246b.js"
+  ]
+}
